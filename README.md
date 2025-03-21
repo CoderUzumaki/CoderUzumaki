@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and exploring different fields in Computer Science
 - 🌱 I’m currently learning MERN Stack (Web Development)
 - 💞️ I’m looking to collaborate on WebD projects that uses MERN stack
-- 📫 How to reach me : You may contact me through my Twitter [https://x.com/coderUzumaki] or LinkedIn Id [https://www.linkedin.com/in/dev-abhinav-mishra/]
+- 📫 How to reach me : You may contact me through my [Twitter](https://x.com/coderUzumaki) or [LinkedIn](https://www.linkedin.com/in/dev-abhinav-mishra/)
 - 😄 Pronouns: He/Him
 
 
