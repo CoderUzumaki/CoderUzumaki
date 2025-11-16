@@ -47,5 +47,4 @@
 <hr>  
 
 ### <samp>Github Stats
-![](https://github-readme-stats.vercel.app/api?username=coderUzumaki&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=coderUzumaki&theme=tokyonight&hide_border=true)
